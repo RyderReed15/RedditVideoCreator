@@ -1,0 +1,7 @@
+@font-face {
+    font-family: "KOMIC"; /*a name to be used later*/
+    src: url("D:/Code and Stuff/Reddit/video/KOMIKAP_.ttf"); /*URL to font*/
+}
+.h1 {
+	font-family: "KOMIC";
+}
