@@ -2,7 +2,7 @@
 
 Auto creates those videos with a text to speech bot reading reddit comments
 
-### Instructions
+## Instructions
 
 Run Scraper.py
 
